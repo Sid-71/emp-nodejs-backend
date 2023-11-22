@@ -6,7 +6,7 @@
 
 - ## Install
 
-    - git clone <git-url>
+    - git clone  `git-url`
     - cd PROJECT_TITLE
     - yarn install
 
